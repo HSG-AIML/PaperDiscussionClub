@@ -2,10 +2,16 @@
 This repository contains list of papers that we will discuss in the paper discussion meetings every week. <br>
 
 ## Question list
-In every meeting we every participant can provide a list of questions that he/she finds interesting. We also have a fixed list of question that we aim to answer in every meeting:<br>
+In every meeting participants can provide a list of questions that he/she finds interesting. We also have a fixed list of question that we aim to answer in every meeting:<br>
 
+- What is the main idea?
 - What is the main contribution of the paper?
 - What is the level of novelty of the paper?
+- What are the key components/steps of the introduced method?
+- How do these key components/steps relate to the state of the art? (entirely new idea, taken from a different domain, sligth extension...)
+- What are advantages and disadvantages to the introduced method?
+- What assumptions does the paper make for it's method? (i.e., distributions, training behavior, features..)
+- Does the paper show experiments to critically test it's assumptions, results and conclusions, or are they cherry-picked?
 
 <br>To be completed ...
 
