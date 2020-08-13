@@ -20,7 +20,7 @@ In every meeting participants can provide a list of questions that he/she finds 
 
 | Paper Title| Link| Year of Publication|Date|
 | :---:|:---:|:---:| :---:|
-| Neural Ordinary Differential Equaations | https://arxiv.org/abs/1806.07366 | 2019| 20.08.2020|
+| Neural Ordinary Differential Equations | https://arxiv.org/abs/1806.07366 | 2019| 20.08.2020|
 
 
 ## Paper candidates
