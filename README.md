@@ -1,5 +1,5 @@
 # AI:ML Paper Discussion Club
-This repository contains list of papers that we will discuss in the paper discussion meetings every week. <br>
+This repository contains a list of papers that we will discuss in the paper discussion meetings every week. <br>
 
 ## Question list
 In every meeting participants can provide a list of questions that he/she finds interesting. We also have a fixed list of question that we aim to answer in every meeting:<br>
