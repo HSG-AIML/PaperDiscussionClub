@@ -22,7 +22,9 @@ In every meeting participants can provide a list of questions that he/she finds 
 | :---:|:---:|:---:| :---:|
 | Neural Ordinary Differential Equations | https://arxiv.org/abs/1806.07366 | 2019| 20.08.2020|
 | Temporal Difference Variational Auto-Encoder | https://arxiv.org/pdf/1806.03107.pdf | 2019 | 27.08.2020 |
-
+| Visualizing the Loss Landscape of Neural Networks| https://arxiv.org/pdf/1712.09913.pdf | 2018 | 03.09.2020|
+| Reformer: The Efficient Transformer | https://arxiv.org/pdf/2001.04451.pdf | 2020 | 10.09.2020|
+| On Mutual Information Maximization for Representation Learning| https://arxiv.org/pdf/1907.13625.pdf | 2020 | 17.09.2020|
 
 ## Paper candidates
 
